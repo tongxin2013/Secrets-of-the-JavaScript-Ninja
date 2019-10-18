@@ -1,2 +1,2 @@
 # Secrets-of-the-JavaScript-Ninja
-  Reading Secrets of the JavaScript Ninja and Learning Notes
+  《Secrets of the JavaScript Ninja》Reading and Learning Notes
